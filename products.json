@@ -1,6 +1,6 @@
-{
 
-    {
+
+    [{
         "Name": "IPhone",
         "Price": "799",
         "Description": "The latest phone from Apple",
@@ -71,5 +71,4 @@
         "Price": "999",
         "Description": "The latest phone from Apple",
         "Categories": ["Samsung","Laptop"]
-    }
-}
+    }]
