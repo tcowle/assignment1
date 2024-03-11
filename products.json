@@ -1,0 +1,75 @@
+{
+
+    {
+        "Name": "IPhone",
+        "Price": "799",
+        "Description": "The latest phone from Apple",
+        "Categories": ["Apple","Phone"]
+    },
+    {
+        "Name": "IPad",
+        "Price": "599",
+        "Description": "The latest tablet from Apple",
+        "Categories": ["Apple","Tablet"]
+    },
+    {
+        "Name": "Airpods",
+        "Price": "249",
+        "Description": "Premium sound experience",
+        "Categories": ["Apple","Earbuds"]
+    },
+    {
+        "Name": "Macbook",
+        "Price": "1099",
+        "Description": "Our best laptop ever",
+        "Categories": ["Apple","Laptop"]
+    },
+    {
+        "Name": "Pixel",
+        "Price": "699",
+        "Description": "The latest phone from Google",
+        "Categories": ["Google","Phone"]
+    },
+    {
+        "Name": "Pixel Tablet",
+        "Price": "499",
+        "Description": "The latest tablet from Google",
+        "Categories": ["Google","Tablet"]
+    },
+    {
+        "Name": "Pixel Buds",
+        "Price": "149",
+        "Description": "Immersion you can hear",
+        "Categories": ["Google","Earbuds"]
+    },
+    {
+        "Name": "Chromebook",
+        "Price": "599",
+        "Description": "Affordable, capable, complete",
+        "Categories": ["Google","Laptop"]
+    },
+    {
+        "Name": "Galaxy",
+        "Price": "899",
+        "Description": "The latest phone from Samsung",
+        "Categories": ["Samsung","Phone"]
+    },
+    {
+    "Name": "Galaxy Tab",
+    "Price": "799",
+    "Description": "The latest tablet from Samsung",
+    "Categories": ["Samsung","Tablet"]
+    },
+    {
+        "Name": "Galaxy Buds",
+        "Price": "799",
+        "Description": "The latest phone from Apple",
+        "Categories": ["Samsung","Earbuds"]
+    },
+    {
+        "Name": "Galaxy book",
+        "Price": "999",
+        "Description": "The latest phone from Apple",
+        "Categories": ["Samsung","Laptop"]
+    }
+}
